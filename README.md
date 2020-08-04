@@ -8,7 +8,7 @@
 
 #### Infra
 - [Infrastructure as Code: Managing Servers in the Cloud - KIEF MORRIS](https://book.naver.com/bookdb/book_detail.nhn?bid=11714383)
-- &#9989; [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
+- [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
 - [Kubernetes Pattern - 빌긴 이브리암, 롤란트 후스](https://book.naver.com/bookdb/book_detail.nhn?bid=16320585)
 
 #### CS
@@ -17,8 +17,8 @@
 - [REAL WORLD HTTP - 시부카와 요시키](https://book.naver.com/bookdb/book_detail.nhn?bid=14725267)
 
 #### Java, Spring
-- &#9989; [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
-- &#9989; [자바 ORM 표준 JPA 프로그래밍 - 김영한](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
+- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
+- [자바 ORM 표준 JPA 프로그래밍 - 김영한](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
 
 ### &#128640; Certification
 - &#127775;	AWS Certified Solutions Architect - Associate (SAA-C02)
