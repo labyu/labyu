@@ -8,6 +8,9 @@
 - [Patterns of Enterprise Application Architecture - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=9699564)
 - [REFACTORING 2nd - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
 
+
+- [Microservices Pattern - Chris Richardson](https://book.naver.com/bookdb/book_detail.nhn?bid=16214502)
+
 #### Infra
 - [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
 - [Kubernetes Pattern - 빌긴 이브리암, 롤란트 후스](https://book.naver.com/bookdb/book_detail.nhn?bid=16320585)
