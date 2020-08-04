@@ -7,8 +7,6 @@
 - [UML for Java Programmers - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 - [Patterns of Enterprise Application Architecture - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=9699564)
 - [REFACTORING 2nd - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
-
-
 - [Microservices Pattern - Chris Richardson](https://book.naver.com/bookdb/book_detail.nhn?bid=16214502)
 
 #### Infra
