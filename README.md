@@ -1,6 +1,6 @@
 ### Books to read
 #### Code, Design, Pattern
-- (Domain-driven design - ERIC EVANS)[https://book.naver.com/bookdb/book_detail.nhn?bid=6680572]
+- [Domain-driven design - ERIC EVANS](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 
 - (Clean code : a handbook of agile software craftsmanship. - ROBERT C. MARTIN)[https://book.naver.com/bookdb/book_detail.nhn?bid=7390287]
 - (Clean Architecture - ROBERT C. MARTIN)[https://book.naver.com/bookdb/book_detail.nhn?bid=15303798]
