@@ -20,7 +20,7 @@
 - &#9989; [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
 - &#9989; [자바 ORM 표준 JPA 프로그래밍 - 김영한](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
 
-### Certification
+### &#128640; Certification
 - &#127775;	AWS Certified Solutions Architect - Associate (SAA-C02)
 - &#9997; AWS Certified Developer - Associate (DVA-C01)
 - AWS Certified DevOps Engineer - Professional (DOP-C01)
