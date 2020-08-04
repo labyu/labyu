@@ -11,6 +11,7 @@
 
 #### Infra
 - [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
+- [Kubernetes in Action - 마르코 룩샤](https://book.naver.com/bookdb/book_detail.nhn?bid=16302999)
 - [Kubernetes Pattern - 빌긴 이브리암, 롤란트 후스](https://book.naver.com/bookdb/book_detail.nhn?bid=16320585)
 - [Infrastructure as Code: Managing Servers in the Cloud - KIEF MORRIS](https://book.naver.com/bookdb/book_detail.nhn?bid=11714383)
 - [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Envi - JUSTIN GARRISON](https://book.naver.com/bookdb/book_detail.nhn?bid=14022486)
@@ -21,8 +22,14 @@
 - [REAL WORLD HTTP - 시부카와 요시키](https://book.naver.com/bookdb/book_detail.nhn?bid=14725267)
 
 #### Java, Spring
+- [코드로 배우는 스프링 웹 프로젝트 - 구멍가게 코딩단](https://book.naver.com/bookdb/book_detail.nhn?bid=13993776)
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
 - [자바 ORM 표준 JPA 프로그래밍 - 김영한](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
+- [Modern Java in Action - 라울-게이브리얼 우르마](https://book.naver.com/bookdb/book_detail.nhn?bid=15261103)
+- [Spring in Action 5th - 크레이그 월즈](https://book.naver.com/bookdb/book_detail.nhn?bid=16348386)
+- [RXJAVAリアクティブプログラミング - 스다 토모유키](https://book.naver.com/bookdb/book_detail.nhn?bid=14689555)
+- [Effective Java - Block, Joshua](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
+- [Real-World Software Deveopment - RICHARD WARBURTON](https://book.naver.com/bookdb/book_detail.nhn?bid=16380743)
 
 ### &#128640; Certification
 - &#127775;	AWS Certified Solutions Architect - Associate (SAA-C02)
