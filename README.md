@@ -2,8 +2,8 @@
 #### Code, Design, Pattern
 - [Domain-driven design - ERIC EVANS](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 
-- (Clean code : a handbook of agile software craftsmanship. - ROBERT C. MARTIN)[https://book.naver.com/bookdb/book_detail.nhn?bid=7390287]
-- (Clean Architecture - ROBERT C. MARTIN)[https://book.naver.com/bookdb/book_detail.nhn?bid=15303798]
+- [Clean code : a handbook of agile software craftsmanship. - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
+- [Clean Architecture - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
 
 - (Patterns of Enterprise Application Architecture - MARTIN FOWLER)[https://book.naver.com/bookdb/book_detail.nhn?bid=9699564]
 - (REFACTORING 2nd - MARTIN FOWLER)[https://book.naver.com/bookdb/book_detail.nhn?bid=16311029]
