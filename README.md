@@ -4,6 +4,7 @@
 - [Domain-driven design - ERIC EVANS](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 - [Clean code : a handbook of agile software craftsmanship. - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 - [Clean Architecture - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
+- [Agile Software Development, Principles, Patterns, and Practices - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385)
 - [UML for Java Programmers - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 - [Patterns of Enterprise Application Architecture - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=9699564)
 - [REFACTORING 2nd - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
