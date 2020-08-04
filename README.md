@@ -1,10 +1,10 @@
 ### &#128640;	Books to read
 #### Code, Design, Pattern
 - [오브젝트 - 조영호](https://book.naver.com/bookdb/book_detail.nhn?bid=15007773)
-- 
 - [Domain-driven design - ERIC EVANS](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 - [Clean code : a handbook of agile software craftsmanship. - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 - [Clean Architecture - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
+- [UML for Java Programmers - ROBERT C. MARTIN](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 - [Patterns of Enterprise Application Architecture - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=9699564)
 - [REFACTORING 2nd - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
 
@@ -12,7 +12,7 @@
 - [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
 - [Kubernetes Pattern - 빌긴 이브리암, 롤란트 후스](https://book.naver.com/bookdb/book_detail.nhn?bid=16320585)
 - [Infrastructure as Code: Managing Servers in the Cloud - KIEF MORRIS](https://book.naver.com/bookdb/book_detail.nhn?bid=11714383)
-- [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Envi](https://book.naver.com/bookdb/book_detail.nhn?bid=14022486)
+- [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Envi - JUSTIN GARRISON](https://book.naver.com/bookdb/book_detail.nhn?bid=14022486)
 
 #### CS
 - [Operating System - Abraham Silberschatz](https://book.naver.com/bookdb/book_detail.nhn?bid=16291575)
