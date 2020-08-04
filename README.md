@@ -30,6 +30,7 @@
 - [RXJAVAリアクティブプログラミング - 스다 토모유키](https://book.naver.com/bookdb/book_detail.nhn?bid=14689555)
 - [Effective Java - Block, Joshua](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
 - [Real-World Software Deveopment - RICHARD WARBURTON](https://book.naver.com/bookdb/book_detail.nhn?bid=16380743)
+- [Professional Java EE Design Patterns - 무라트 예네르](https://book.naver.com/bookdb/book_detail.nhn?bid=11760372)
 
 ### &#128640; Certification
 - &#127775;	AWS Certified Solutions Architect - Associate (SAA-C02)
