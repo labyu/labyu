@@ -9,6 +9,10 @@
 - [Patterns of Enterprise Application Architecture - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=9699564)
 - [REFACTORING 2nd - MARTIN FOWLER](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
 - [Microservices Pattern - Chris Richardson](https://book.naver.com/bookdb/book_detail.nhn?bid=16214502)
+- [Seven Concurrency Models in Seven Weeks - PAUL BUTCHER](https://book.naver.com/bookdb/book_detail.nhn?bid=10794699)
+- [Effective programming more than writing code - 제프 앳우드](https://book.naver.com/bookdb/book_detail.nhn?bid=7169247)
+- [Working Effectively with Legacy Code - 마이클 C. 페더스](https://book.naver.com/bookdb/book_detail.nhn?bid=14032002)
+- [(The) pragmatic programmer : from journeyman to master. - ]()
 
 #### Infra
 - [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
