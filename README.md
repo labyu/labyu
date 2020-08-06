@@ -34,7 +34,7 @@
 - [Professional Java EE Design Patterns - 무라트 예네르](https://book.naver.com/bookdb/book_detail.nhn?bid=11760372)
 
 ### &#128640; Certification
-- &#127775;	AWS Certified Solutions Architect - Associate (SAA-C02)
+- &#127775; ~ 23.07	AWS Certified Solutions Architect - Associate (SAA-C02)
 - &#9997; AWS Certified Developer - Associate (DVA-C01)
 - AWS Certified DevOps Engineer - Professional (DOP-C01)
 - AWS Certified Solutions Architect - Professional (SAP-C01)
