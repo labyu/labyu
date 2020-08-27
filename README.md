@@ -15,6 +15,7 @@
 - [(The) pragmatic programmer : from journeyman to master. - ANDREW HUNT](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
 - [객체지향의 사실과 오해 - 조영호](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968)
 - [GoF의 디자인 패턴 - 에릭 감마, 리처드 헬름, 랄프 존슨, 존 블리시디스](https://book.naver.com/bookdb/book_detail.nhn?bid=8942623)
+- [Exercises in Programming Style - CRISTINA VIDEIRA LOPES](https://book.naver.com/bookdb/book_detail.nhn?bid=9273893)
 
 #### Infra
 - [시작하세요! 도커/쿠버네티스 - 용찬호](https://book.naver.com/bookdb/book_detail.nhn?bid=15917544)
