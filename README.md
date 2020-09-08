@@ -28,6 +28,7 @@
 - [Operating System - Abraham Silberschatz](https://book.naver.com/bookdb/book_detail.nhn?bid=16291575)
 - [Computer Orgaization and Architecture 10th -  William Stallings](https://book.naver.com/bookdb/book_detail.nhn?bid=14146375)
 - [REAL WORLD HTTP - 시부카와 요시키](https://book.naver.com/bookdb/book_detail.nhn?bid=14725267)
+- [Computer Networking - James F. Kurose, Keith W. Ross](https://book.naver.com/bookdb/book_detail.nhn?bid=12500834)
 
 #### Java, Spring
 - [코드로 배우는 스프링 웹 프로젝트 - 구멍가게 코딩단](https://book.naver.com/bookdb/book_detail.nhn?bid=13993776)
