@@ -1,3 +1,9 @@
+### &#128640; Project
+- APJUNG
+  - [Backend](https://github.com/cocoding-ss/apjung-backend)
+  - [Infra](https://github.com/cocoding-ss/apjung-gitops)
+  - [Mobile](https://github.com/cocoding-ss/apjung-mobile)
+
 ### &#128640;	Books to read
 - [Link](https://github.com/labyu/labyu/blob/master/BOOKS.md)
 
