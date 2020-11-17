@@ -12,3 +12,4 @@
 - [~ 23.09 AWS Certified Developer - Associate (DVA-C01)](https://www.youracclaim.com/badges/01bdbb1f-bcd8-472c-8cf7-aa3351e54fe5/public_url)
 - [~ 23.09 AWS Certified DevOps Engineer - Professional (DOP-C01)](https://www.youracclaim.com/badges/a74b2f56-35b5-40ad-8d17-f1f01ec66004/public_url)
 - &#9997; AWS Certified Solutions Architect - Professional (SAP-C01)
+- Certified Kubernetes Administrator
