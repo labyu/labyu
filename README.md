@@ -5,6 +5,7 @@
   - [Backend](https://github.com/cocoding-ss/apjung-backend)
   - [Infra](https://github.com/cocoding-ss/apjung-gitops)
   - [Mobile](https://github.com/cocoding-ss/apjung-mobile)
+  - [Admin](https://github.com/cocoding-ss/apjung-admin)
 
 ### Book
 - [Link](https://github.com/labyu/labyu/blob/master/BOOKS.md)
