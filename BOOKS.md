@@ -21,6 +21,7 @@
 - [Kubernetes in Action - 마르코 룩샤](https://book.naver.com/bookdb/book_detail.nhn?bid=16302999)
 - [Kubernetes Pattern - 빌긴 이브리암, 롤란트 후스](https://book.naver.com/bookdb/book_detail.nhn?bid=16320585)
 - [Infrastructure as Code: Managing Servers in the Cloud - KIEF MORRIS](https://book.naver.com/bookdb/book_detail.nhn?bid=11714383)
+- [Cloud Native - BORIS SCHOLL](https://book.naver.com/bookdb/book_detail.nhn?bid=16374938)
 - [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Envi - JUSTIN GARRISON](https://book.naver.com/bookdb/book_detail.nhn?bid=14022486)
 
 #### CS
