@@ -8,7 +8,7 @@
   <a href=""><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <a href=""><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
   <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <a href=""><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazoneaws&logoColor=white"/></a>&nbsp 
+  <a href=""><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazone AWS&logoColor=white"/></a>&nbsp 
   
 
   <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
