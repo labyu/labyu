@@ -1,11 +1,11 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center">my favorite tech stacks</p>
+<p align="center">제가 즐겨사용하는 스택입니다</p>
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <a><img src="https://img.shields.io/badge/ES8-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <br>
