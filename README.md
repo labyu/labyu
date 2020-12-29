@@ -50,6 +50,7 @@
 <p align="center">
   <a href="https://labyu.github.io/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
   <a href="https://www.facebook.com/byu.la.71"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp 
+  <a href="https://github.com/labyu/labyu/blob/master/BOOKS.md"><img src="https://img.shields.io/badge/Books-3884FF?style=flat-square&logo=GitBook&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
