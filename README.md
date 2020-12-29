@@ -36,6 +36,7 @@
 <br>
 
 <h3 align="center">💡 Project 💡</h3>
+<p align="center">Some description Some description Some description</p>
 <p align="center">
   <a href="https://github.com/cocoding-ss/apjung-backend"><img src="https://img.shields.io/badge/Apjung-Backend-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/cocoding-ss/apjung-gitops"><img src="https://img.shields.io/badge/Apjung-GitOps-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
@@ -45,6 +46,7 @@
 <br>
 
 <h3 align="center">📖 Me 📖</h3>
+<p align="center">Some description Some description Some description</p>
 <p align="center">
   <a href="https://labyu.github.io/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
   <a href="https://www.facebook.com/byu.la.71"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp 
