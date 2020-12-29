@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flabyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -9,7 +6,7 @@
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <a><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
+  <a><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <br>
   <a><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
@@ -35,3 +32,7 @@
 - [~ 23.09 AWS Certified DevOps Engineer - Professional (DOP-C01)](https://www.youracclaim.com/badges/a74b2f56-35b5-40ad-8d17-f1f01ec66004/public_url)
 - &#9997; AWS Certified Solutions Architect - Professional (SAP-C01)
 - Certified Kubernetes Administrator
+
+<p align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flabyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)  
+</p>
