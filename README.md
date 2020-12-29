@@ -13,7 +13,7 @@
   <a><img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <br>
-  <p>Infra</p>
+  Infra
   <br>
   <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
