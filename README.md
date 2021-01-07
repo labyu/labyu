@@ -40,6 +40,7 @@
 <p align="center">
   <a href="https://github.com/cocoding-ss/apjung-backend"><img src="https://img.shields.io/badge/Apjung-Backend-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/cocoding-ss/apjung-gitops"><img src="https://img.shields.io/badge/Apjung-GitOps-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <a href="https://github.com/cocoding-ss/apjung-mobile"><img src="https://img.shields.io/badge/Apjung-Mobile-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
