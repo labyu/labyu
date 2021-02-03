@@ -1,5 +1,5 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">Some description Some description Some description</p>
+<p align="center">좋아하는 기술들입니다!</p>
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -25,7 +25,7 @@
 <br>
 
 <h3 align="center">🚀 Certification 🚀</h3>
-<p align="center">Some description Some description Some description</p>
+<p align="center">컵스카우트처럼 뱃지 모으기</p>
 <p align="center">
   <a href="https://www.youracclaim.com/badges/a74b2f56-35b5-40ad-8d17-f1f01ec66004/public_url">AWS Certified DevOps Engineer - Professional (DOP-C01)</a> <br>
   <a href="https://www.youracclaim.com/badges/01bdbb1f-bcd8-472c-8cf7-aa3351e54fe5/public_url">AWS Certified Developer - Associate (DVA-C01)</a> <br>
@@ -36,7 +36,7 @@
 <br>
 
 <h3 align="center">💡 Project 💡</h3>
-<p align="center">Some description Some description Some description</p>
+<p align="center">토이프로젝트는 개발자의 유흥입니다!</p>
 <p align="center">
   <a href="https://github.com/cocoding-ss/apjung-backend"><img src="https://img.shields.io/badge/Apjung-Backend-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/cocoding-ss/apjung-gitops"><img src="https://img.shields.io/badge/Apjung-GitOps-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
@@ -47,7 +47,7 @@
 <br>
 
 <h3 align="center">📖 Contact 📖</h3>
-<p align="center">Some description Some description Some description</p>
+<p align="center">블로그를 열심히 쓰고 있습니다</p>
 <p align="center">
   <a href="https://labyu.github.io/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
   <a href="https://www.linkedin.com/in/labyu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
