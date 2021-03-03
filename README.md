@@ -50,7 +50,7 @@
 <p align="center">블로그를 열심히 쓰고 있습니다</p>
 <p align="center">
   <a href="https://labyu.github.io/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
-  <a href="https://www.linkedin.com/in/labyu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
+  <!--<a href="https://www.linkedin.com/in/labyu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp--> 
   <a href="https://www.facebook.com/byu.la.71"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp 
   <a href="mailto:labyu2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 </p>
