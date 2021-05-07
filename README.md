@@ -1,8 +1,8 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <a><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
