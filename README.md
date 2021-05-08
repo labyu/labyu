@@ -34,7 +34,6 @@
 <br>
 
 <h3 align="center">💡 Project 💡</h3>
-<p align="center"><a href="https://www.notion.so/labyu/01-22556ef5739b484890d4ec41d71f1278">Server</a></p>
 <p align="center">
     <a href="https://github.com/TravelPlan-Project/TravelPlan"><img src="https://img.shields.io/badge/TravelPlan-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <br>
