@@ -33,18 +33,6 @@
 <br>
 <br>
 
-<h3 align="center">💡 Project 💡</h3>
-<p align="center">
-    <a href="https://github.com/TravelPlan-Project/TravelPlan"><img src="https://img.shields.io/badge/TravelPlan-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <br>
-  <a href="https://github.com/cocoding-ss/apjung-backend"><img src="https://img.shields.io/badge/Apjung-Backend-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <a href="https://github.com/cocoding-ss/apjung-gitops"><img src="https://img.shields.io/badge/Apjung-GitOps-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <!-- <a href="https://github.com/cocoding-ss/apjung-mobile"><img src="https://img.shields.io/badge/Apjung-Mobile-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp -->
-</p>
-
-<br>
-<br>
-
 <h3 align="center">📖 Contact 📖</h3>
 <p align="center">
   <a href="https://labyu.github.io/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
